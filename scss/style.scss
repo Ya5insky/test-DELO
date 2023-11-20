@@ -184,9 +184,10 @@ button:focus  {
             }
             .links-adress {
                 padding-top: 50px;
-            }
-            .footer__copyright{
-                font-size: 12px;
+                .footer__copyright{
+                    font-size: 12px;
+                    padding-bottom: 15px;
+                }
             }
         }
     }
